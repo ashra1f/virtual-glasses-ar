@@ -14,3 +14,4 @@ Le projet détecte votre visage en temps réel avec **MediaPipe Face Mesh**, aju
 - Capture instantanée (`s`) et sauvegarde en PNG
 - Support **multi-visages** (plusieurs personnes dans le champ)
 
+<img width="672" height="536" alt="image" src="https://github.com/user-attachments/assets/cb0f3583-9f99-433d-9ade-d96bcd5721b7" />
